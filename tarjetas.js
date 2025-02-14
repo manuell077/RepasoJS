@@ -1,0 +1,5 @@
+let validarTarjeta = function (digitos){
+       
+    
+
+}
